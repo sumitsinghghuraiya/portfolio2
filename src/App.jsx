@@ -14,14 +14,14 @@ const App = () => {
     <>
              <Header />
              <Nav />
-             <About /> 
-             <Portfolio />
+             <About />           
              <Experience /> 
              <Services /> 
+             <Portfolio/>
              <Testimonial /> 
              <Contact /> 
              <Footer />
     </>
-    );
+    )
 }
 export default App;
