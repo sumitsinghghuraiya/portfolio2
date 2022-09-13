@@ -1,7 +1,7 @@
 import React from "react"
 import "./header.css"
 import CV from "../../assets/CV.pdf" 
-import ME from "../../assets/sumit1.png"
+import ME from "../../assets/sumitsingh1.png"
 import Header_social from "./header_social"
 const Header = () => {
     
